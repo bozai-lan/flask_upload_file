@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>文件</title>
+</head>
+<body>
+    {% for file in file_list %}
+    查看or下载：<a href="{{ file.file_url }}">{{ file.file_name }}</a>
+    <br>
+    <br>
+    {% endfor %}
+    <a href="upload">再次上传</a>
+</body>
+</html>
+
