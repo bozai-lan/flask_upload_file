@@ -1,8 +1,3 @@
-# @Time    : 2020/3/6 11:55
-# @Author  : 帅气的陈小陌
-# @Email   : 13784197113@163.com
-# File     : upload_file.py
-# Software : PyCharm
 from .. import db
 
 

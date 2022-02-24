@@ -1,8 +1,3 @@
-# @Time    : 2020/3/6 12:08
-# @Author  : 帅气的陈小陌
-# @Email   : 13784197113@163.com
-# File     : upload_file_service.py
-# Software : PyCharm
 from ..config import Config
 
 

@@ -1,8 +1,3 @@
-# @Time    : 2020/3/6 11:42
-# @Author  : 帅气的陈小陌
-# @Email   : 13784197113@163.com
-# File     : config.py
-# Software : PyCharm
 import os
 
 
